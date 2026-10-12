@@ -1,0 +1,10 @@
+# Fichiers temporaires / système
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+
+# Ne jamais versionner de secrets
+*.pfx
+*.key
+secrets*
